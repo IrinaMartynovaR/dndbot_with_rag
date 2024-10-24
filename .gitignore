@@ -1,0 +1,7 @@
+my_chroma_data/
+chroma.log
+chromadb/
+__pycache__/
+ollama/
+env/
+.env
