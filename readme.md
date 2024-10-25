@@ -11,10 +11,11 @@
   
 # Пример работы проекта
 
+![1](https://github.com/user-attachments/assets/c2214d7f-c3af-4b69-b718-36a086bf531c)
 
 
-![Пример изображения запуска игры](images/1.jpg)
-![Пример изображения отработки действий](images/2.jpg)
+![2](https://github.com/user-attachments/assets/bb0c74cd-e0b2-4146-b6ad-bfdb8483d8ad)
+
 
 
 ## Установка
