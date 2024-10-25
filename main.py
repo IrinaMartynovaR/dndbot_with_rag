@@ -83,6 +83,7 @@ thinking_phrases = [
 async def handle_message(message: Message):
     user_query = message.text
     random_thinking_phrase = random.choice(thinking_phrases)
+    await asyncio.sleep(5)
     await message.answer(random_thinking_phrase)
     response = await query_model(user_query)
     await message.answer(response)
